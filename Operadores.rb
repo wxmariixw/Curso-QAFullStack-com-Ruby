@@ -19,4 +19,10 @@
 v1 = 10
 v2 = 11
 
-puts v1 > v2
+#> maior que
+#< menor que
+#== / eql? (v1.eql?.v2) igual a 
+#>= maior ou igual
+#<= menor ou igual
+#!= diferente
+
